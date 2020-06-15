@@ -1,6 +1,4 @@
-👋 Hi! I'm a open source software developer 
-
-passionate about 🏗️ open-source tools in `php`
+👋 Hi! I'm a open source software developer passionate about 🏗️ open-source tools in `php`
 
 I started development with core PHP for development of websites and applications very early in life. 
 
