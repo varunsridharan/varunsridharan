@@ -20,7 +20,7 @@ It has been an amazing 13-year journey with WordPress, and I look forward to mor
 | [Quick Buy For Woocommerce](https://wordpress.org/plugins/woocommerce-quick-buy/) | 10,000+ |
 | [Role Based Price For WooCommerce](https://wordpress.org/plugins/woocommerce-role-based-price/) | 9,000+ |
 | [Product Subtitle For WooCommerce](https://wordpress.org/plugins/wc-product-subtitle/) | 5,000+ |
-| [SKU Shortlink For WooCommerce](https://wordpress.org/plugins/sku-shortlink-for-woocommerce/) | 5,000+ |
+| [SKU Shortlink For WooCommerce](https://wordpress.org/plugins/sku-shortlink-for-woocommerce/) | 5,00+ |
 
 >   You Can check out more of my wordpress plugins @ [https://profiles.wordpress.org/varunms/#content-plugins](https://profiles.wordpress.org/varunms/#content-plugins)
   
