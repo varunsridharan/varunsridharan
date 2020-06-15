@@ -12,7 +12,7 @@ In 2007 I gave WordPress a try again, and this time around things were completel
 
 I have since been a hardcore open source developer building plugins for WordPress and WooCommerce.
 
-It has been an amazing 13-year journey with WordPress, and I look forward to more! I love Open Source! ❤️  🙂
+It has been an amazing 13-year journey with WordPress, and I look forward to more! I love Open Source! ❤️    🙂
 
 ## 🔌  My WordPress Plugins
 | Plugin Name | Downloads |
