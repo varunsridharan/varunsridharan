@@ -1,4 +1,4 @@
-![banner.jpg](banner.jpg)
+![https://cdn.svarun.dev/profile/banner.jpg](https://cdn.svarun.dev/profile/banner.jpg)
 
 👋 Hi! I'm a open source software developer passionate about 🏗️ open-source tools in `php`
 
@@ -17,18 +17,18 @@ It has been an amazing 13-year journey with WordPress, and I look forward to mor
 ## 🔌  My WordPress Plugins
 | Plugin Name | Downloads |
 | ----------- | --------- |
-| [Quick Buy For Woocommerce](https://wordpress.org/plugins/woocommerce-quick-buy/) | 10,000+ |
-| [Role Based Price For WooCommerce](https://wordpress.org/plugins/woocommerce-role-based-price/) | 9,000+ |
-| [Product Subtitle For WooCommerce](https://wordpress.org/plugins/wc-product-subtitle/) | 5,000+ |
-| [SKU Shortlink For WooCommerce](https://wordpress.org/plugins/sku-shortlink-for-woocommerce/) | 5,00+ |
+| [Quick Buy For Woocommerce](https://go.svarun.dev/wp/plugins/wcqb/) | 10,000+ |
+| [Role Based Price For WooCommerce](https://go.svarun.dev/wp/plugins/wcrbp/) | 9,000+ |
+| [Product Subtitle For WooCommerce](https://go.svarun.dev/wp/plugins/psfwc/) | 5,000+ |
+| [SKU Shortlink For WooCommerce](https://go.svarun.dev/wp/plugins/skusfwc/) | 5,00+ |
 
->   You Can check out more of my wordpress plugins @ [https://profiles.wordpress.org/varunms/#content-plugins](https://profiles.wordpress.org/varunms/#content-plugins)
+>   You Can Check Out More Of My WordPress Plugins [Here](https://go.svarun.dev//wordpress/)
   
 
 ## 💵  Sponsor 
-- **PayPal :** [@varunsridharan23](https://www.paypal.me/varunsridharan23)
+- **PayPal :** [@varunsridharan23](https://go.svarun.dev/donate/paypal/)
 
 ##  💌 Get in touch
-- **Twitter :** [@varunsridharan2](https://twitter.com/varunsridharan2)
-- **Email :** [varunsridharan23@gmail.com](mailto:varunsridharan23@gmail.com)
-- **Telegram :** [@varunsridharan](https://t.me/varunsridharan)
+- **Twitter :** [@varunsridharan2](https://go.svarun.dev/sm/twitter/)
+- **Email :** [varunsridharan23@gmail.com](https://go.svarun.dev/)
+- **Telegram :** [@varunsridharan](https://go.svarun.dev/sm/telegram/)
