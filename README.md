@@ -16,7 +16,7 @@ It has been an amazing 13-year journey with WordPress, and I look forward to mor
 
 ## 🔌  My WordPress Plugins
 | Plugin Name | Downloads |
-| ----------- | --------- |
+| :---: | :---: |
 | [Quick Buy For Woocommerce](https://go.svarun.dev/wp/plugins/wcqb/) | 10,000+ |
 | [Role Based Price For WooCommerce](https://go.svarun.dev/wp/plugins/wcrbp/) | 9,000+ |
 | [Product Subtitle For WooCommerce](https://go.svarun.dev/wp/plugins/psfwc/) | 5,000+ |
