@@ -9,21 +9,10 @@ ___I ❤️ Open Source!___
 
 ---
 
-## 🔌  My WordPress Plugins
-| Plugin Name | Downloads |
-| :---: | :---: |
-| [Quick Buy For Woocommerce](https://go.svarun.dev/wp/plugins/wcqb/) | 10,000+ |
-| [Role Based Price For WooCommerce](https://go.svarun.dev/wp/plugins/wcrbp/) | 9,000+ |
-| [Product Subtitle For WooCommerce](https://go.svarun.dev/wp/plugins/psfwc/) | 5,000+ |
-| [SKU Shortlink For WooCommerce](https://go.svarun.dev/wp/plugins/skusfwc/) | 5,00+ |
+>   You Can Check Out More Of My WordPress Plugins [Here](https://sva.onl/wp-profile)
 
->   You Can Check Out More Of My WordPress Plugins [Here](https://go.svarun.dev//wordpress/)
-  
-
-## 💵  Sponsor 
-- **PayPal :** [@varunsridharan23](https://go.svarun.dev/donate/paypal/)
 
 ##  💌 Get in touch
-- **Twitter :** [@varunsridharan2](https://go.svarun.dev/sm/twitter/)
-- **Email :** [varunsridharan23@gmail.com](https://go.svarun.dev/)
-- **Telegram :** [@varunsridharan](https://go.svarun.dev/sm/telegram/)
+- **Twitter :** [@varunsridharan2](https://sva.onl/twitter)
+- **Email :** [varunsridharan23@gmail.com](https://sva.onl/mail)
+- **Telegram :** [@varunsridharan](https://sva.onl/telegram)
