@@ -1,4 +1,4 @@
-# About me
+# Hi Github 👋
 
 _A self-taught person than a main stream academic, I started development with core **PHP** for development of websites and applications very early in life. I was introduced to **WordPress** for the first time in 2004._
 
@@ -8,8 +8,6 @@ ___I ❤️ Open Source!___
 
 
 ---
-
->   You Can Check Out More Of My WordPress Plugins [Here](https://sva.onl/wp-profile)
 
 
 ##  💌 Get in touch
