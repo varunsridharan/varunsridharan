@@ -1,4 +1,4 @@
-# Hi Github 👋
+<h1 align="center">Hi there 👋</h1>
 
 _A self-taught person than a main stream academic, I started development with core **PHP** for development of websites and applications very early in life. I was introduced to **WordPress** for the first time in 2004._
 
@@ -14,3 +14,7 @@ ___I ❤️ Open Source!___
 - **Twitter :** [@varunsridharan2](https://sva.onl/twitter)
 - **Email :** [varunsridharan23@gmail.com](https://sva.onl/mail)
 - **Telegram :** [@varunsridharan](https://sva.onl/telegram)
+
+---
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=varunsridharan.varunsridharan)
