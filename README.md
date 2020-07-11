@@ -7,10 +7,10 @@ _A self-taught person than a main stream academic, I started development with co
 
 _I have been a hardcore open-source developer building plugins for **WordPress** and **WooCommerce** since 2007. It has been an amazing 13-year journey with **WordPress**, and I look forward to more!_
 
+
+<p  align="center" ><samp align="center">I ❤️ Open Source!</samp></p>
+
 </p>
-
-
-<p  align="center"><samp align="center">I ❤️ Open Source!</samp></p>
 
 
 
