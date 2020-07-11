@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p>
-<img  align="left" width="250px" src="https://s2.do-spaces.com/2020/Jul/11/1594444442-13.jpg" />
+<img  align="left" width="250px" src="https://s2.do-spaces.com/2020/Jul/11/1594444600-183.jpg" />
 
 _A self-taught person than a main stream academic, I started development with core **PHP** for development of websites and applications very early in life. I was introduced to **WordPress** for the first time in 2004._
 
@@ -12,7 +12,9 @@ _I have been a hardcore open-source developer building plugins for **WordPress**
 
 <p  align="center"><samp align="center">I ❤️ Open Source!</samp></p>
 
----
+
+
+
 <table align="center">
   <tr>
   <td><a href="https://sva.onl/twitter"><img width="25px" src="https://cdn.svarun.dev/social/twitter.svg"/></a></td>
