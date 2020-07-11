@@ -1,19 +1,21 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p>
-<img  align="left" width="250px" src="https://cdn.svarun.dev/profile/github-profile-banner.jpg" />
+<img  align="left" width="200px" src="https://cdn.svarun.dev/profile/github-profile-banner.jpg" />
 
 _A self-taught person than a main stream academic, I started development with core **PHP** for development of websites and applications very early in life. I was introduced to **WordPress** for the first time in 2004._
 
 _I have been a hardcore open-source developer building plugins for **WordPress** and **WooCommerce** since 2007. It has been an amazing 13-year journey with **WordPress**, and I look forward to more!_
 
-
-<p  align="center" ><samp align="center">I ❤️ Open Source!</samp></p>
+___<samp align="center">I ❤️ Open Source!</samp>___
 
 </p>
 
 
+<p>
 
+---
+</p>
 
 <table align="center">
   <tr>
