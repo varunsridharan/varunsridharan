@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p>
-<img  align="left" width="250px" src="https://s2.do-spaces.com/2020/Jul/11/1594444600-183.jpg" />
+<img  align="left" width="250px" src="https://cdn.svarun.dev/profile/github-profile-banner.jpg" />
 
 _A self-taught person than a main stream academic, I started development with core **PHP** for development of websites and applications very early in life. I was introduced to **WordPress** for the first time in 2004._
 
