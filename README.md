@@ -11,7 +11,6 @@ ___<samp align="center">I ❤️ Open Source!</samp>___
 
 </p>
 
----
 <p align="center">
 <a href="https://sva.onl/twitter"><img align="center" width="25px" src="https://cdn.svarun.dev/social/twitter.svg"/></a>
 <a href="https://sva.onl/facebook"><img align="center" width="25px" src="https://cdn.svarun.dev/social/facebook.svg"/></a>
