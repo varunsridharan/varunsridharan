@@ -75,7 +75,8 @@ ___<samp align="center">I ❤️ Open Source!</samp>___
   </tr>
 </table>
 
----
+<br/>
+
 <p align="center">
    <img src="https://s.w.org/style/images/codeispoetry.png"/>
 </p>
