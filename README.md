@@ -74,3 +74,8 @@ ___<samp align="center">I ❤️ Open Source!</samp>___
 <td> <a href="https://sva.onl/youtube"><img align="center" width="25px" src="https://cdn.svarun.dev/social/youtube.svg"/></a></td>
   </tr>
 </table>
+
+---
+<p align="center">
+   <img src="https://s.w.org/style/images/codeispoetry.png"/>
+</p>
