@@ -10,6 +10,14 @@ ___<samp align="center">I ❤️ Open Source!</samp>___
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<table><tr><td><a href="https://varunsridharan.hashnode.dev/why-i-choose-hashnode-over-wordpress-ckh329cvm04e7ajs168v9hlq9" title="Why i choose HashNode over WordPress ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604473699420/uEyXQZeQU.png" alt="Why i choose HashNode over WordPress ?"   /></a>
+<a href="https://varunsridharan.hashnode.dev/why-i-choose-hashnode-over-wordpress-ckh329cvm04e7ajs168v9hlq9" title="Why i choose HashNode over WordPress ?"><strong>Why i choose HashNode over WordPress ?</strong></a>
+<br/> You guys might be wondering why I preferred Hashnode as my blogging platform over WordPress, despite being a hardcore WordPress developer.
+Why ?
+I choose Hashnode because of below reasons.
+
+Its cloud hosted & Free of cost
+Supports Markdown which i am...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 
