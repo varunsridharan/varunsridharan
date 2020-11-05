@@ -7,6 +7,12 @@ _I have been a hardcore open-source developer building plugins for **WordPress**
 
 ___<samp align="center">I ❤️ Open Source!</samp>___
 
+
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+
 ## Languages & Tools
 <table>
    <tr>
