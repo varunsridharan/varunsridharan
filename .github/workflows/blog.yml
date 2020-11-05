@@ -10,6 +10,9 @@ jobs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+      
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
