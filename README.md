@@ -10,8 +10,8 @@ ___<samp align="center">I ❤️ Open Source!</samp>___
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://varunsridharan.hashnode.dev/how-to-show-latest-blog-posts-in-github-public-profile-ckh4tx9il060p39s11l5nfox6" title="How To Show Latest Blog Posts In Github Public Profile ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604573678370/_fHbuET6K.png" alt="How To Show Latest Blog Posts In Github Public Profile ?"   /></a>
-<a href="https://varunsridharan.hashnode.dev/how-to-show-latest-blog-posts-in-github-public-profile-ckh4tx9il060p39s11l5nfox6" title="How To Show Latest Blog Posts In Github Public Profile ?"><strong>How To Show Latest Blog Posts In Github Public Profile ?</strong></a>
+<table><tr><td><a href="https://varunsridharan.hashnode.dev/how-to-show-latest-hashnode-blog-posts-in-github-profile-readme-ckh4tx9il060p39s11l5nfox6" title="How To Show Latest Hashnode Blog Posts In Github Profile Readme?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604573678370/_fHbuET6K.png" alt="How To Show Latest Hashnode Blog Posts In Github Profile Readme?"   /></a>
+<a href="https://varunsridharan.hashnode.dev/how-to-show-latest-hashnode-blog-posts-in-github-profile-readme-ckh4tx9il060p39s11l5nfox6" title="How To Show Latest Hashnode Blog Posts In Github Profile Readme?"><strong>How To Show Latest Hashnode Blog Posts In Github Profile Readme?</strong></a>
 <br/> Hi There,
 I recently decided to start my own blog using Hashnode. after setting up the blog I found out that there is no GitHub action which can update my Github Profile Readme with the latest posts I write here.
 So I decided to jump into work and st...</td><td><a href="https://varunsridharan.hashnode.dev/why-i-choose-hashnode-over-wordpress-ckh329cvm04e7ajs168v9hlq9" title="Why i choose HashNode over WordPress ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604473699420/uEyXQZeQU.png" alt="Why i choose HashNode over WordPress ?"   /></a>
