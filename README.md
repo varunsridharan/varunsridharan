@@ -21,7 +21,7 @@ Using Deploy Keys can come in handy when you don't want to login to your GitHu..
 <a href="https://varunsridharan.hashnode.dev/how-to-show-latest-hashnode-blog-posts-in-github-profile-readme-ckh4tx9il060p39s11l5nfox6" title="How To Show Latest Hashnode Blog Posts In Github Profile Readme?"><strong>How To Show Latest Hashnode Blog Posts In Github Profile Readme?</strong></a>
 <br/> Hi There,
 I recently decided to start my own blog using Hashnode. after setting up the blog I found out that there is no GitHub action which can update my Github Profile Readme with the latest posts I write here.
-So I decided to jump into work and st...</td><td><a href="https://varunsridharan.hashnode.dev/why-i-choose-hashnode-over-wordpress-ckh329cvm04e7ajs168v9hlq9" title="Why i choose HashNode over WordPress ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604473699420/uEyXQZeQU.png" alt="Why i choose HashNode over WordPress ?"   /></a>
+So I decided to jump into work and st...</td></tr><tr><td><a href="https://varunsridharan.hashnode.dev/why-i-choose-hashnode-over-wordpress-ckh329cvm04e7ajs168v9hlq9" title="Why i choose HashNode over WordPress ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604473699420/uEyXQZeQU.png" alt="Why i choose HashNode over WordPress ?"   /></a>
 <a href="https://varunsridharan.hashnode.dev/why-i-choose-hashnode-over-wordpress-ckh329cvm04e7ajs168v9hlq9" title="Why i choose HashNode over WordPress ?"><strong>Why i choose HashNode over WordPress ?</strong></a>
 <br/> You guys might be wondering why I preferred Hashnode as my blogging platform over WordPress, despite being a hardcore WordPress developer.
 Why ?
