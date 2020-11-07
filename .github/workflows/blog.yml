@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'varunsridharan'
-          COUNT: 8
-          STYLE: "blog-grid-4"
+          COUNT: 9
+          STYLE: "blog-grid-3"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
