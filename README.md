@@ -10,7 +10,7 @@ ___<samp align="center">I ❤️ Open Source!</samp>___
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td>
+<table><tr><td><a href="https://varunsridharan.hashnode.dev/dizzle-css-selector-library-ckh93hgmr002zyes1dq7vh3tl" title="Dizzle - CSS Selector Library"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604840838840/0YqG-oJi7.jpeg" alt="Dizzle - CSS Selector Library"   /></a>
 <a href="https://varunsridharan.hashnode.dev/dizzle-css-selector-library-ckh93hgmr002zyes1dq7vh3tl" title="Dizzle - CSS Selector Library"><strong>Dizzle - CSS Selector Library</strong></a>
 <br/> What is Dizzle?
 Dizzle turns CSS selectors into functions that test if elements match them. When searching for elements, testing is executed "from the top", similar to how browsers execute CSS selectors.
