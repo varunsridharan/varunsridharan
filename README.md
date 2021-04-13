@@ -41,7 +41,7 @@ Pi-Hole is an open-source software which helps ensure you are the sole person in
 <br/> I am a 26-year old software developer from Chennai, India. I have always been more of a self-taught person than a mainstream academic. My interest in technology and development stemmed from this passion for self-learning. This interest prompted me to...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
-
+<!-- 
 ## Languages & Tools
 <table>
    <tr>
@@ -84,7 +84,7 @@ Pi-Hole is an open-source software which helps ensure you are the sole person in
      <td><img src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg" width="60"/></td>
      <td><img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-original.svg" width="60"/></td>
    </tr>
-</table>
+</table> -->
 
 ---
 
