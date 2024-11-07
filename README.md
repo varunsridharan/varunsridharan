@@ -1,3 +1,15 @@
+>Dear Community ⚠️🆘,
+>
+>I wanted to share that, due to personal circumstances and health reasons, I am currently stepping back from my work on open-source projects. I’m incredibly grateful for all the encouragement and contributions from this community—it’s been an amazing journey, and I look >forward to these projects thriving in capable hands.
+>
+>If anyone is interested in collaborating or taking over project maintenance, please feel free to contact me. I’d love to ensure these projects continue to grow with the support of dedicated community members.
+>
+>Thank you all for your understanding and support.
+>Warm regards,
+>Varun Sridharan
+
+---
+
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! ></h1>
 
 
